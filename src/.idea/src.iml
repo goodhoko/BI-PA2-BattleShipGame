@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/BoardTile.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Coord.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AIPlayer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Session.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ship.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EasyAIPlayer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BoardTile.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AIPlayer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Game.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ConsolePlayer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EasyAIPlayer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Game.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Player.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ship.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Strategy.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GeniusAIPlayer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/NetworkPlayer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Session.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Strategy.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GeniusAIPlayer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/NetworkPlayer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ConsolePlayer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CleverAIPlayer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Board.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CleverAIPlayer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Board.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file://C:/MinGW/lib/gcc/mingw32/4.8.1/include" />
+          <root url="file://C:/MinGW/lib/gcc/mingw32/4.8.1/include-fixed" />
+          <root url="file://C:/MinGW/mingw32/include" />
+          <root url="file://C:/MinGW/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://C:/MinGW/lib/gcc/mingw32/4.8.1/include" />
+          <root url="file://C:/MinGW/lib/gcc/mingw32/4.8.1/include-fixed" />
+          <root url="file://C:/MinGW/mingw32/include" />
+          <root url="file://C:/MinGW/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

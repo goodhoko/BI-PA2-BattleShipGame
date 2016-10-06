@@ -1,0 +1,6 @@
+<size> <name>
+2 Patrol Boat
+2 Patrol Boat
+3 Submarine
+4 Battleship
+5 Aircraft carrier

@@ -1,0 +1,14 @@
+Klasická hra Lodě.
+
+Implementujte následující typy her:
+
+1) pro alespoň 2 hráče na více počítačích (síťové rozhraní),
+2) pro hru proti počítači (škálovatelná umělá inteligence).
+
+Hra musí splňovat následující funkcionality:
+
+1) dodržování základních pravidel,
+2) rozestavění lodí, definice lodí v souboru (vytvořte vhodný formát),
+3) oznamovat konec hry a její výsledek.
+
+https://en.wikipedia.org/wiki/Battleship_(game)
